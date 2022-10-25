@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         )
 
         initView()
+        val addB = 1
     }
 
     private fun initView() {
