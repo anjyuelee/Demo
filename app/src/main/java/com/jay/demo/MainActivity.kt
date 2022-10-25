@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
 
         initView()
 
+        val addA = 0
+
         val addB = 1
     }
 
