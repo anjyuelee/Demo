@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
         initView()
 
         val addJay = 0
+
+        val addJohn = 1
     }
 
     private fun initView() {
